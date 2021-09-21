@@ -31,5 +31,6 @@ public class Main {
             }
         }
         System.out.println("Thanks for playing TAG");
+        System.out.println("Testing GIT commit");
     }
 }
